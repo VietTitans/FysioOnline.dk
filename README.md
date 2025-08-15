@@ -81,10 +81,11 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ![Hero Desktop](docs/screenshots/hero-desktop.jpg)
 
 ### Hero Section (Mobile)
-![Hero Mobile](docs/screenshots/hero-mobile.jpg)
+<img src="docs/screenshots/hero-mobile.jpg" alt="Hero Mobile" width="300"/>
 
 ### Booking Calendar (Desktop)
-![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)
+<img src="docs/screenshots/booking-calendar-mobile.jpg" alt="Booking Calendar Mobile" width="300"/>
+
 
 ### Booking Calendar (Mobile)
 ![Booking Calendar Mobile](docs/screenshots/booking-calendar-mobile.jpg)

@@ -1,4 +1,4 @@
-<img width="1580" height="649" alt="image" src="https://github.com/user-attachments/assets/8861dd88-e358-463b-a4ab-ad7d887cd115" /># FysioOnline.dk – Website Enhancements
+# FysioOnline.dk – Website Enhancements
 
 This README documents the enhancements I implemented for [fysioonline.dk](https://fysioonline.dk/), a physiotherapy clinic website.  
 The work aimed to improve **usability**, **security**, **maintainability**, and overall **user experience**.

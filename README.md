@@ -100,7 +100,6 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 
 ## Technologies Used
 - **HTML5 / CSS3** (Flexbox, media queries)
-- **JavaScript** (form handling, reCAPTCHA)
 - **WordPress** (Elementor for page building, theme customization)
 - **Google reCAPTCHA API**
 - **UpdraftPlus** (WordPress backup plugin)

@@ -84,7 +84,7 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 <img src="docs/screenshots/hero-mobile.jpg" alt="Hero Mobile" width="300"/>
 
 ### Booking Calendar (Desktop)
-![Booking Calendar Mobile](docs/screenshots/booking-calendar-desktop.jpg)
+![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)
 
 ### Booking Calendar (Mobile)
 <img src="docs/screenshots/booking-calendar-mobile.jpg" alt="Booking Calendar Mobile" width="300"/>
@@ -100,7 +100,7 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ## Technologies Used
 - **HTML5 / CSS3** (Flexbox, media queries)
 - **JavaScript** (form handling, reCAPTCHA)
-- **PHP / WordPress** (Elementor for page building, theme customization)
+- **PWordPress** (Elementor for page building, theme customization)
 - **Google reCAPTCHA API**
 - **UpdraftPlus** (WordPress backup plugin)
 

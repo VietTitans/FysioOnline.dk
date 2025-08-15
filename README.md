@@ -84,16 +84,16 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ![Hero Mobile](docs/screenshots/hero-mobile.png)
 
 ### Booking Calendar (Desktop)
-![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.png)
+![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)
 
 ### Booking Calendar (Mobile)
-![Booking Calendar Mobile](docs/screenshots/booking-calendar-mobile.png)
+![Booking Calendar Mobile](docs/screenshots/booking-calendar-mobile.jpg)
 
 ### Contact Form with reCAPTCHA
-![Contact Form reCAPTCHA](docs/screenshots/contact-form-recaptcha.png)
+![Contact Form reCAPTCHA](docs/screenshots/contact-form-recaptcha.jpg)
 
 ### "Samarbejdspartnerer" Header Section
-![Samarbejdspartnerer](docs/screenshots/samarbejdspartnerer.png)
+![Samarbejdspartnerer](docs/screenshots/samarbejdspartnerer.jpg)
 
 > **Note:** All screenshots are from a development environment with placeholder data.
 

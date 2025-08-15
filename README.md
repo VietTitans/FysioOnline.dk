@@ -77,11 +77,15 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 
 ##  Screenshots
 
-### Hero Section (Desktop)
-![Hero Desktop](docs/screenshots/hero-desktop.jpg)
+### Front page (Desktop)
+![Frontpage Desktop](docs/screenshots/hero-desktop.jpg)
+![Frontpage section 2 Desktop](forside-section-2-desktop.jpg)
+![Frontpage section 3 Desktop](forside-section-3-desktop)
+![Footer Desktop](docs/screenshots/forside-footer-desktop.jpg)
 
-### Hero Section (Mobile)
-<img src="docs/screenshots/hero-mobile.jpg" alt="Hero Mobile" width="300"/>
+### Front page Section (Mobile)
+<img src="docs/screenshots/hero-mobile.jpg" alt="Hero Mobile" width="300"/> <img src="docs/screenshots/section-2-mobile.jpg" alt="Hero Mobile" width="300"/> 
+<img src="docs/screenshots/section-3-mobile.jpg" alt="Hero Mobile" width="300"/> <img src="docs/screenshots/footer-mobile.jpg" alt="Hero Mobile" width="300"/>
 
 ### Booking Calendar (Desktop)
 ![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)

@@ -79,19 +79,15 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 
 ### Front page (Desktop)
 ![Frontpage Desktop](docs/screenshots/hero-desktop.jpg)
-![Frontpage section 2 Desktop](forside-section-2-desktop.jpg)
-![Frontpage section 3 Desktop](forside-section-3-desktop)
+![Frontpage section 2 Desktop](docs/screenshots/forside-section-2-desktop.jpg)
+![Frontpage section 3 Desktop](docs/screenshots/forside-section-3-desktop.jpg)
 ![Footer Desktop](docs/screenshots/forside-footer-desktop.jpg)
 
 ### Front page Section (Mobile)
 <img src="docs/screenshots/hero-mobile.jpg" alt="Hero Mobile" width="300"/> <img src="docs/screenshots/section-2-mobile.jpg" alt="Hero Mobile" width="300"/> 
+
 <img src="docs/screenshots/section-3-mobile.jpg" alt="Hero Mobile" width="300"/> <img src="docs/screenshots/footer-mobile.jpg" alt="Hero Mobile" width="300"/>
 
-### Booking Calendar (Desktop)
-![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)
-
-### Booking Calendar (Mobile)
-<img src="docs/screenshots/booking-calendar-mobile.jpg" alt="Booking Calendar Mobile" width="300"/>
 
 ### Contact Form with reCAPTCHA
 ![Contact Form reCAPTCHA](docs/screenshots/contact-form-recaptcha.jpg)
@@ -104,7 +100,7 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ## Technologies Used
 - **HTML5 / CSS3** (Flexbox, media queries)
 - **JavaScript** (form handling, reCAPTCHA)
-- **PWordPress** (Elementor for page building, theme customization)
+- **WordPress** (Elementor for page building, theme customization)
 - **Google reCAPTCHA API**
 - **UpdraftPlus** (WordPress backup plugin)
 

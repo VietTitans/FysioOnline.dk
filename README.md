@@ -78,10 +78,10 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ##  Screenshots
 
 ### Hero Section (Desktop)
-![Hero Desktop](docs/screenshots/hero-desktop.png)
+![Hero Desktop](docs/screenshots/hero-desktop.jpg)
 
 ### Hero Section (Mobile)
-![Hero Mobile](docs/screenshots/hero-mobile.png)
+![Hero Mobile](docs/screenshots/hero-mobile.jpg)
 
 ### Booking Calendar (Desktop)
 ![Booking Calendar Desktop](docs/screenshots/booking-calendar-desktop.jpg)
@@ -94,8 +94,6 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 
 ### "Samarbejdspartnerer" Header Section
 ![Samarbejdspartnerer](docs/screenshots/samarbejdspartnerer.jpg)
-
-> **Note:** All screenshots are from a development environment with placeholder data.
 
 ---
 

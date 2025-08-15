@@ -1,4 +1,4 @@
-# FysioOnline.dk – Website Enhancements
+<img width="1580" height="649" alt="image" src="https://github.com/user-attachments/assets/8861dd88-e358-463b-a4ab-ad7d887cd115" /># FysioOnline.dk – Website Enhancements
 
 This README documents the enhancements I implemented for [fysioonline.dk](https://fysioonline.dk/), a physiotherapy clinic website.  
 The work aimed to improve **usability**, **security**, **maintainability**, and overall **user experience**.
@@ -81,6 +81,7 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 ![Frontpage Desktop](docs/screenshots/hero-desktop.jpg)
 ![Frontpage section 2 Desktop](docs/screenshots/forside-section-2-desktop.jpg)
 ![Frontpage section 3 Desktop](docs/screenshots/forside-section-3-desktop.jpg)
+![Frontpage section 4 Desktop](docs/screenshots/forside-section-4-desktop.jpg)
 ![Footer Desktop](docs/screenshots/forside-footer-desktop.jpg)
 
 ### Front page Section (Mobile)

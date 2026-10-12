@@ -108,4 +108,4 @@ The work aimed to improve **usability**, **security**, **maintainability**, and 
 
 ## Author
 **Matt Nhu Dinh**  
-Front-End Consultant & Developer
+Web Consultant & Developer

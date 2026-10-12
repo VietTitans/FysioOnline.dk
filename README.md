@@ -1,4 +1,4 @@
-# FysioOnline.dk – Website Enhancements (WordPress, Elementor)
+# FysioOnline.dk – Website Enhancements (WordPress & Elementor)
 
 This README documents the enhancements I implemented for [fysioonline.dk](https://fysioonline.dk/), a physiotherapy clinic website.  
 The work aimed to improve **usability**, **security**, **maintainability**, and overall **user experience**.
